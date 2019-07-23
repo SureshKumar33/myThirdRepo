@@ -20,7 +20,8 @@ curl.get(url, null, (err,resp,body)=>{
   }
   else{
      //some error handling
-     console.log("error while fetching url");
+     console.log("Modified this js file for testing in Git hub");
+     console.log("Modified this js file for testing in Git hub... haa haaa haaa");
   }
 });
 
